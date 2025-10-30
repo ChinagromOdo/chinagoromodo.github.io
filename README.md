@@ -20,7 +20,7 @@ I enjoy transforming data into actionable insights, automating workflows with Py
 
 ### 🎥 [Top 10 UK YouTubers 2025](https://chinagromodo.github.io/Top-UK-Youtubers-/)
 A data-driven project that helps marketing managers decide which YouTube channels to partner with for campaigns.  
-**Tech:** Python (YouTube API, Pandas), Excel, Power BI  
+**Tech:** Python (YouTube API, Pandas), Excel, SQL, Power BI  
 
 ---
 
