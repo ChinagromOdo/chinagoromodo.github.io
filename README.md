@@ -12,7 +12,7 @@ I enjoy transforming data into actionable insights, automating workflows with Py
 - 🧠 **Data Analysis & Visualization:** Power BI, Excel, and Python (Pandas, Matplotlib)  
 - 💻 **Programming:** Python (data pipelines, APIs, automation)  
 - 📊 **Market Research:** Consumer insights, business intelligence, and retail analytics  
-- 🛍️ **Projects:** Building **FLOF Mart**, a discount retail startup redefining food access in Nigeria  
+- 🛍️ **Hobbies:** Building **FLOF Mart**, a discount retail startup redefining food access in Nigeria  
 
 ---
 
