@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Odo Chinagorom
 
+<p align="center">
+  <img src="./Profile%20picture.jpg" alt="Chinagorom Odo" width="200">
+</p>
 
 
 I'm a **data analyst** and **market researcher** currently building **retail** and **tech-driven solutions in Africa**.  
