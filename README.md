@@ -25,7 +25,10 @@ I enjoy transforming data into actionable insights, automating workflows with Py
 A data-driven project that helps marketing managers decide which YouTube channels to partner with for campaigns.  
 **Tech:** Python (YouTube API, Pandas), Excel, SQL, Power BI  
 
----
+### 🧮 [Recipe Costing Automation Workbook](https://github.com/ChinagromOdo/Recipe-Cost-Calculator)
+
+This project is a **macro-enabled Excel solution** that automates recipe costing, ingredient conversion, and profitability analysis for food businesses. It’s designed for cafés, restaurants, and culinary entrepreneurs who want to manage pricing efficiently without manual recalculation.
+**Tech:** Basic Excel, used functions like VLOOKUP, INDEX, MATCH, MACROs and VBA
 
 
 ## 🌍 Let’s Connect
